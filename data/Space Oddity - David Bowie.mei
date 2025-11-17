@@ -5,13 +5,31 @@
    <meiHead xml:id="mcesrko">
       <fileDesc xml:id="f1c77xk2">
          <titleStmt xml:id="t1n5s8am">
-            <title>Wish You Were Here</title>
+            <title>Space Oddity</title>
+            <composer>
+               <persName role="creator">David Bowie</persName>
+            </composer>
+            <lyricist>David Bowie</lyricist>
             <respStmt>
-               <persName role="composer">Written by David Glimour and Roger Waters</persName>
+               <persName role="composer">Written by David Bowie</persName>
+               <resp>Encoded by</resp>
+               <resp>Rob McKay</resp>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="p14m8cyi">
             <date isodate="2025-11-04" type="encoding-date">2025-11-04</date>
+            <publisher>
+               <corpName>RCA</corpName>
+            </publisher>
+            <address>
+               <addrLine>
+                  <geogName>London</geogName>
+               </addrLine>
+            </address>
+            <availability>
+               <useRestrict> auth.uri="https://creativecommons.org/licenses/by-nc-nd/4.0/" 
+                   auth="Creative Commons”&gt;Creative Commons Attribution 4.0 International, CC BY-NC-SA </useRestrict>
+            </availability>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="e11m0kgq">
@@ -22,6 +40,20 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <workList>
+         <work>
+            <title>Space Oddity</title>
+            <composer>
+               <persName>David Bowie</persName>
+            </composer>
+            <classification>
+               <termList>
+                  <term> class"#header.LCSH"&gt;Psychedelic folk</term>
+                  <term> class"header.LCSH"&gt; Folk rock</term>
+               </termList>
+            </classification>
+         </work>
+      </workList>
    </meiHead>
    <music>
       <body>
