@@ -17,7 +17,7 @@
 <ul class="topnav">
   <li><a href="#">Week 1</a></li>
   <li><a href="#">Week 2</a></li>
-  <li><a href="#">Week 3t</a></li>
+  <li><a href="#">Week 3</a></li>
   <li><a href="#">Week 4</a></li>
 </ul>
 
