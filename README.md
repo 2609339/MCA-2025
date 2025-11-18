@@ -12,15 +12,13 @@
 </head>
 <body>
 
-<header>
-  <h1>My Header</h1>
-</header>
+
 
 <ul class="topnav">
-  <li><a href="#">Home</a></li>
-  <li><a href="#">News</a></li>
-  <li><a href="#">Contact</a></li>
-  <li><a href="#">About</a></li>
+  <li><a href="#">Week 1</a></li>
+  <li><a href="#">Week 2</a></li>
+  <li><a href="#">Week 3t</a></li>
+  <li><a href="#">Week 4</a></li>
 </ul>
 
 </body>
