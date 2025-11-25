@@ -15,10 +15,10 @@
 
 
 <ul class="topnav">
-  <h2>Link Titles</h2>
-<p>The title attribute specifies extra information about an element. The information is most often shown as a tooltip text when the mouse moves over the element.</p>
+  <h2>View lab tasks</h2>
+
 <a href="Lab Tasks/week 1/myDataset.md" title="View week 1's lab tasks">Week 1</a>
-  <li><a href="Lab Tasks/week 1/myDataset.md" title="week 1"</a></li>
+ 
   <li><a href="#">Week 2</a></li>
   <li><a href="#">Week 3</a></li>
   <li><a href="#">Week 4</a></li>
