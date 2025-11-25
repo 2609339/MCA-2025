@@ -22,7 +22,7 @@
   <li><a href="#">Week 5</a></li>
   <li><a href="#">Week 6</a></li>
   <li><a href="#">Week 7</a></li>
-  <li><a href="#">Week 8</a></li>
+  <li><a href="#">Week 8</a></li> (Lab Tasks/week 8/lab)
   <li><a href="#">Week 9</a></li>
   <li><a href="#">Week 10</a></li>
 </ul>
