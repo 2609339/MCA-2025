@@ -28,15 +28,7 @@
 <a href="Lab Tasks/week 2/week2.html" title="View week 9's lab tasks">Week 9</a>
 <a href="Lab Tasks/week 2/week2.html" title="View week 10's lab tasks">Week 10</a>
  
-  <li><a href="#">Week 2</a></li>
-  <li><a href="#">Week 3</a></li>
-  <li><a href="#">Week 4</a></li>
-  <li><a href="#">Week 5</a></li>
-  <li><a href="#">Week 6</a></li>
-  <li><a href="#">Week 7</a></li>
-  <li><a href="#">Week 8</a></li> 
-  <li><a href="#">Week 9</a></li>
-  <li><a href="#">Week 10</a></li>
+
 </ul>
 
 </body>
