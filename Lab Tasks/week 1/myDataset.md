@@ -1,5 +1,17 @@
-# Week 1: Musical Datasets
+<html>
+<!--Version 1.0 -->
+  <head>
+    
 
-## Task 1: Dataset theme 
+  </head>
+  <body>
+    <h1>Week 1</h1>
+    <h2>2. My dataset's theme</h2>
+    <p>The chosen theme for my dataset is the English singer and songwriter David Bowie. After releasing his debute self-titled album in 1967, Bowie would gain great recognition and acclaim for his 1969 single 'space oddity'. Following the success of this single Bowie would have great success from the 1970s onwards releasing 26 studio albums throughout his career and receiving six Grammy Awards and four Brit Awards.Bowie's musical style changed throughout his career and although he did not belong to one single genre his work incorporated elements of Glam Rock, Art Rock, Electronic, Folk, Soul and Pop.   </p>
+ <h2>3. Challenges of music data</h2> 
+    <p> Challenges that I believe I may face when working with music related data mostly involve the potential accessibility of the data due to potential issues that may arise if working with copyrighted material. These challenegs can be encountered when trying to work with the music of David Bowie while still abiding by the copyright protection his work is under. David Bowie's work currently can be viewed throughout the three manifsestations of music data. Firstly, with notated data musical score's of Bowie's songs can be found online although these are usually fan curated and are not created by Bowie himself they are still a relavent piece of data. Desciptive data of Bowie's works also exist online, for example on streaming service you can find information such as the title of songs, their lenth and release dates, as well as the credits of the songs where the producer, writers and labels behind the songs can be seen. Acoustic data can be found on streaming services and Youtube, as well as on the physical releases of his music, such as CD's, vinyl records and cassettes. Their also exists fan covers, live recordings and remixes of his music.
 
-The theme of my dataset is the British rock artist David Bowie.
+   
+   </body>
+    
+</html>
