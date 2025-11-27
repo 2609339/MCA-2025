@@ -17,7 +17,7 @@
 <ul class="topnav">
   <h2>View lab tasks</h2>
 
-<a href="Lab Tasks/week 1/myDataset.md" title="View week 1's lab tasks">Week 1</a>
+<a href="Lab Tasks/week 2/week2.html" title="View week 1's lab tasks">Week 1</a>
 <a href="Lab Tasks/week 2/week2.html" title="View week 2's lab tasks">Week 2</a>
 <a href="Lab Tasks/week 3/week3.html" title="View week 3's lab tasks">Week 3</a>
 <a href="Lab Tasks/week 4/week4.html" title="View week 4's lab tasks">Week 4</a>
