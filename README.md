@@ -24,7 +24,7 @@
 <a href="LabTasks/Week5/week5.html" title="View week 5's lab tasks">Week 5</a>
 <a href="LabTasks/Week7/Week7.html" title="View week 7's lab tasks">Week 7</a>
 <a href="LabTasks/Week8/Week8.html" title="View week 8's lab tasks">Week 8</a>
-<a href="Lab Tasks/week 2/week2.html" title="View week 9's lab tasks">Week 9</a>
+<a href="LabTasks/Week9/Week9.html" title="View week 9's lab tasks">Week 9</a>
 <a href="Lab Tasks/week 2/week2.html" title="View week 10's lab tasks">Week 10</a>
  
 
